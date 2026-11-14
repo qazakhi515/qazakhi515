@@ -1,30 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>README preview — qazakhi515</title>
-<style>
-  body { margin: 0; background: #f6f8fa; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: #1f2328; }
-  .box { max-width: 900px; margin: 24px auto; background: #fff; border: 1px solid #d0d7de; border-radius: 6px; padding: 24px 32px; line-height: 1.5; }
-  .path { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; margin-bottom: 16px; }
-  h3 { font-size: 20px; margin: 24px 0 12px; }
-  img { max-width: 100%; }
-  ul { padding-left: 2em; }
-  table { border-collapse: collapse; width: 100%; }
-  th, td { border: 1px solid #d0d7de; padding: 6px 13px; text-align: left; }
-  tr:nth-child(2n) { background: #f6f8fa; }
-  a { color: #0969da; text-decoration: none; }
-</style>
-</head>
-<body>
-<div class="box">
-<div class="path">qazakhi515 / README.md</div>
+<div style="max-width:900px;margin:24px auto;padding:24px 32px;border:1px solid #d0d7de;border-radius:6px;background:#fff;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;line-height:1.5;color:#1f2328;">
+<div style="font-family:Menlo,monospace;font-size:12px;margin-bottom:16px;">qazakhi515 / README.md</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akhmadjon%20Usmonov&fontSize=42&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+Next.js;Building+medi-care+%26+AgroOlam;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+Next.js;Building+Medi-Care+%26+AgroOlam;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+<h3>👨‍💻 About Me</h3>
+<ul>
+  <li>🔭 Working on <b>Medi-Care</b>, <b>AgroOlam</b> and <b>Pettynara</b> projects</li>
+  <li>🌱 Currently learning <b>Docker</b>, <b>AWS</b> and system design</li>
+  <li>💬 Ask me about <b>NestJS</b>, <b>React</b>, <b>Next.js</b> and <b>MongoDB</b></li>
+  <li>📫 Reach me at <b>qazakhi515@gmail.com</b></li>
+  <li>⚡ Fun fact: <i>Former business owner turned full stack engineer - I speak both P&L (profit&loss)and SQL</i></li>
+</ul>
 
 <h3>🤝 Connect</h3>
 <p align="left">
@@ -39,7 +29,6 @@
 </p>
 
 
-
 <h3>📊 GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=qazakhi515&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
@@ -50,8 +39,5 @@
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qazakhi515&theme=react-dark&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
-</body>
-</html>
