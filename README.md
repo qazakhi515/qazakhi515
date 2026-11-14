@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Docker**, **AWS** and system design
 - 💬 Ask me about **NestJS**, **React**, **Next.js** and **MongoDB**
 - 📫 Reach me at **qazakhi515@gmail.com**
-- ⚡ Fun fact: _write a fun fact about yourself here_
+- ⚡ Fun fact: Former business owner turned full stack engineer - Speak both P&L(profit & loss) and SQL
 
 ### Connect
 
