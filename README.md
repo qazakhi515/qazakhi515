@@ -67,8 +67,6 @@
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qazakhi515&theme=react-dark&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
-<h3>🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/qazakhi515/qazakhi515/output/github-snake.svg" alt="Contribution snake (snake.yml ishga tushgandan keyin chiqadi)" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
