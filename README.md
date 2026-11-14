@@ -38,15 +38,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,redux,mongodb,postgres,redis,graphql,docker,aws,linux,git,github,postman,vscode,figma,tailwind,sass,css,html&perline=12" alt="Languages and Tools" />
 </p>
 
-<h3>🚀 Featured Projects</h3>
-<table>
-  <tr><th>Project</th><th>Description</th><th>Stack</th></tr>
-  <tr><td><a href="#">medi-care</a></td><td>Medi-care modification monorepo project</td><td>TypeScript</td></tr>
-  <tr><td><a href="#">medi-care-next</a></td><td>Medi-care client application</td><td>Next.js, TypeScript</td></tr>
-  <tr><td><a href="#">AgroOlam-React</a></td><td>AgroPlant modification client application</td><td>React, TypeScript</td></tr>
-  <tr><td><a href="#">zoo</a></td><td>NestJS REST API server</td><td>NestJS, TypeScript</td></tr>
-  <tr><td><a href="#">nestar-demo</a></td><td>NESTAR demo project</td><td>CSS</td></tr>
-</table>
+
 
 <h3>📊 GitHub Stats</h3>
 <p align="left">
