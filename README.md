@@ -26,15 +26,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+Next.js;Building+medi-care+%26+AgroOlam;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3>👨‍💻 About Me</h3>
-<ul>
-  <li>🔭 Working on <b>medi-care</b>, <b>AgroOlam</b> and <b>nestar</b> projects</li>
-  <li>🌱 Currently learning <b>Docker</b>, <b>AWS</b> and system design</li>
-  <li>💬 Ask me about <b>NestJS</b>, <b>React</b>, <b>Next.js</b> and <b>MongoDB</b></li>
-  <li>📫 Reach me at <b>qazakhi515@gmail.com</b></li>
-  <li>⚡ Fun fact: <i>write a fun fact about yourself here</i></li>
-</ul>
-
 <h3>🤝 Connect</h3>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
